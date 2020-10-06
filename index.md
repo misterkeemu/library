@@ -10,5 +10,8 @@ data:
     - icon: ':heavy_check_mark:'
       path: example2.test.cpp
       title: example2.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: example3.test.cpp
+      title: example3.test.cpp
 layout: toppage
 ---
