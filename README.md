@@ -1,2 +1,5 @@
-[![GitHub Pages](https://img.shields.io/static/v1?label=GitHub+Pages&message=+&color=brightgreen&logo=github)](https://misterkeemu.github.io/library/)
-頑張っています。
+# けーむライブラリ
+
+[![Actions Status](https://github.com/misterkeemu/library/workflows/verify/badge.svg)](https://github.com/misterkeemu/library/actions)
+
+☝Verifyはちゃんとすること☝
